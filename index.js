@@ -6,3 +6,4 @@ const sum = addNumbers(1,2)
 console.log('the sum is: ' + sum)
 
 // i am learning javaScript From scrach
+ // This is another comment
