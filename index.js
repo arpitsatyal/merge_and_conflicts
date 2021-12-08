@@ -1,5 +1,5 @@
-function addNumbers(n1, n2) {
-    return n1 + n2
+function addNumbers(n1, n2, n3) {
+    return n1 + n2 + n3
 }
 
 const sum = addNumbers(1,2)
