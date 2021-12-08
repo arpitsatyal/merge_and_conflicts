@@ -1,6 +1,6 @@
-function addNumbers(n1, n2, n3) {
-    return n1 + n2 + n3
+function addNumbers(n1, n2, n3, n4, n5) {
+    return n1 + n2 + n3 + n4 + n5
 }
 
-const sum = addNumbers(1,2)
-console.log('the sum is: ' + sum)
+const sum = addNumbers(1,2,3,4,5)
+console.log('the sum of numbers is: ' + sum)
