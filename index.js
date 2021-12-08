@@ -3,4 +3,4 @@ function addNumbers(n1, n2, n3) {
 }
 
 const sum = addNumbers(1,2)
-console.log(sum)
+console.log('the sum is: ' + sum)
